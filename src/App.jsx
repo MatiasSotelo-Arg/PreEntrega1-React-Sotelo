@@ -11,7 +11,7 @@ function App() {
     <>
       <div className='App'>
         <NavBar />
-        <ItemListContainer greeting={'Bienvenidos'}/>
+        <ItemListContainer greeting={'Bienvenidos!'}/>
       </div>
     </>
   )
